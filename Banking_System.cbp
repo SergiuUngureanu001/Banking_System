@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Banking_System" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Banking_System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Banking_System" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Account.cpp" />
+		<Unit filename="Account.h" />
+		<Unit filename="Bank.cpp" />
+		<Unit filename="Bank.h" />
+		<Unit filename="BondAccount.cpp" />
+		<Unit filename="BondAccount.h" />
+		<Unit filename="CheckingAccount.cpp" />
+		<Unit filename="CheckingAccount.h" />
+		<Unit filename="Customer.cpp" />
+		<Unit filename="Customer.h" />
+		<Unit filename="Employee.cpp" />
+		<Unit filename="Employee.h" />
+		<Unit filename="HybridAccount.cpp" />
+		<Unit filename="HybridAccount.h" />
+		<Unit filename="InvestmentAccount.cpp" />
+		<Unit filename="InvestmentAccount.h" />
+		<Unit filename="Loan.cpp" />
+		<Unit filename="Loan.h" />
+		<Unit filename="SavingsAccount.cpp" />
+		<Unit filename="SavingsAccount.h" />
+		<Unit filename="StockAccount.cpp" />
+		<Unit filename="StockAccount.h" />
+		<Unit filename="Transaction.cpp" />
+		<Unit filename="Transaction.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

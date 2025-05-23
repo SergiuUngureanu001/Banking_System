@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1744279589 source:c:\users\sergi\onedrive\desktop\poo\banking_system\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"Bank.h"
+
+1744242780 source:c:\users\sergi\onedrive\desktop\poo\banking_system\customer.cpp
+	"Customer.h"
+	"Loan.h"
+	<iostream>
+
+1744223819 source:c:\users\sergi\onedrive\desktop\poo\banking_system\checkingaccount.cpp
+	"CheckingAccount.h"
+	<iostream>
+	<string>
+
+1744214513 c:\users\sergi\onedrive\desktop\poo\banking_system\checkingaccount.h
+	"Account.h"
+
+1744214977 c:\users\sergi\onedrive\desktop\poo\banking_system\account.h
+	<iostream>
+	<vector>
+
+1744216336 source:c:\users\sergi\onedrive\desktop\poo\banking_system\savingsaccount.cpp
+	"SavingsAccount.h"
+	<iostream>
+	<string>
+
+1744215680 c:\users\sergi\onedrive\desktop\poo\banking_system\savingsaccount.h
+	"Account.h"
+
+1744214976 source:c:\users\sergi\onedrive\desktop\poo\banking_system\account.cpp
+	"Account.h"
+	<vector>
+
+1744127383 c:\users\sergi\onedrive\desktop\poo\banking_system\bank.h
+	<iostream>
+	<vector>
+	"Customer.h"
+	"Employee.h"
+	"Account.h"
+	"Transaction.h"
+	"Loan.h"
+	"HybridAccount.h"
+	"StockAccount.h"
+	"BondAccount.h"
+
+1744242875 c:\users\sergi\onedrive\desktop\poo\banking_system\customer.h
+	<vector>
+	"Account.h"
+
+1744222687 c:\users\sergi\onedrive\desktop\poo\banking_system\loan.h
+	<iostream>
+
+1744222619 c:\users\sergi\onedrive\desktop\poo\banking_system\employee.h
+	<iostream>
+	<vector>
+	"Loan.h"
+
+1744223351 c:\users\sergi\onedrive\desktop\poo\banking_system\transaction.h
+	<iostream>
+	"Account.h"
+
+1744242238 source:c:\users\sergi\onedrive\desktop\poo\banking_system\loan.cpp
+	"Loan.h"
+	"Customer.h"
+
+1744222645 source:c:\users\sergi\onedrive\desktop\poo\banking_system\employee.cpp
+	"Employee.h"
+	"Loan.h"
+	"Customer.h"
+
+1744225072 source:c:\users\sergi\onedrive\desktop\poo\banking_system\bank.cpp
+	"Bank.h"
+	<iostream>
+
+1744223466 source:c:\users\sergi\onedrive\desktop\poo\banking_system\transaction.cpp
+	"Transaction.h"
+	"Bank.h"
+	<iostream>
+	<ctime>
+
+1744223980 source:c:\users\sergi\onedrive\desktop\poo\banking_system\hybridaccount.cpp
+	"HybridAccount.h"
+	<iostream>
+	<string>
+
+1744216598 c:\users\sergi\onedrive\desktop\poo\banking_system\hybridaccount.h
+	"CheckingAccount.h"
+	"SavingsAccount.h"
+
+1744224284 c:\users\sergi\onedrive\desktop\poo\banking_system\stockaccount.h
+	"InvestmentAccount.h"
+
+1744224252 c:\users\sergi\onedrive\desktop\poo\banking_system\investmentaccount.h
+	"Account.h"
+
+1744220380 source:c:\users\sergi\onedrive\desktop\poo\banking_system\investmentaccount.cpp
+	"InvestmentAccount.h"
+
+1744279456 source:c:\users\sergi\onedrive\desktop\poo\banking_system\stockaccount.cpp
+	"StockAccount.h"
+	<iostream>
+
+1744221331 c:\users\sergi\onedrive\desktop\poo\banking_system\bondaccount.h
+	"InvestmentAccount.h"
+
+1744279456 source:c:\users\sergi\onedrive\desktop\poo\banking_system\bondaccount.cpp
+	"BondAccount.h"
+	<iostream>
+
